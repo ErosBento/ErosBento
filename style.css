@@ -1,0 +1,14 @@
+#header{
+    background-color:blueviolet;
+}
+
+#leftright{
+    display: flex;
+}
+#esquerda{
+    background-color: aquamarine;
+}
+#direita{
+    background-color: bisque;
+    padding-left: 20px;
+}
